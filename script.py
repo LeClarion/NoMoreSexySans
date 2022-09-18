@@ -27,14 +27,14 @@ background(colors)
 # 이름과 설명, 버튼에 들어갈 글 설정
 write("name", "Nartuur입니다.")
 write("description", "잘 부탁드립니다.")
-write("button", "ㅗ")
+write("button", "프로필ㅋ")
 
 # 상세설명에 들어갈 제목과 글 설정
 informations = {
   "정보) "
-  "샌즈": "섹시함",
-  "파피루스": "귀여움",
-  "나": "잘생김",
-  "이 사이트에 접속한 ": "못생김;;;;;;"
+  "샌즈:": "섹시함",
+  "파피루스:": "귀여움",
+  "나:": "잘생김",
+  "이 사이트에 접속한 님:": "못생김;;;;;;"
 }
 information(informations)

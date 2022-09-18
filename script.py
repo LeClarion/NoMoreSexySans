@@ -6,7 +6,7 @@ def write(name, desc):
 
 # 하단 버튼 링크 연결 함수
 def button(*args):
-  link = "https://www.naver.com/" # https:// 꼭 붙여야 연결됩니다!
+  link = "https://www.roblox.com/users/945707709/profile" # https:// 꼭 붙여야 연결됩니다!
   webbrowser.open(link)
 
 # 배경 색깔 설정 함수
